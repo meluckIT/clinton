@@ -3,7 +3,7 @@ import { Link } from 'react-scroll'
 import { NavLink } from 'react-router-dom'
 import MobileMenu from '../MobileMenu/MobileMenu'
 import Logo from '../../images/logo.png'
-import cv from '../../images/cv.jpg'
+import cv from '../../images/cv.pdf'
 
 
 const Header = (props) => {
